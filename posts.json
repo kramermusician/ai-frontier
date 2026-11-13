@@ -1,0 +1,37 @@
+{
+ "2026-11-13": {
+  "items": [
+   {
+    "explainer": "A decision model is not a chatbot. You give it an input and a list of closed questions (yes/no, pick one of up to 255 choices, or a rubric score), and it scores every option in one pass and returns a confidence for each instead of writing text. Gemini Decision 1 takes text, images, audio, video and PDFs, answers up to 1,000 questions per request in about 150 to 250 ms, and charges $0.10 per million input tokens with free output. It joins TypeSafe's Jev, which is cheaper and text only.",
+    "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+    "source": "Simon Willison / Latent Space",
+    "title": "Google enters the decision model market with Gemini Decision 1",
+    "why": "Rubric scoring and routing are where schools first use AI, and this makes them cheap enough to run on every submission, which raises the question of who audits the scores."
+   },
+   {
+    "explainer": "llama.cpp is the open-source engine that runs language models on your own laptop, and many local-AI apps sit on top of it. Version 1.0 promises a stable API: breaking changes now require a new major version number. It also ships official packages through Homebrew, conda-forge, Docker and an iOS/macOS framework, and supports more than 150 model architectures.",
+    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "source": "Hugging Face Blog",
+    "title": "llama.cpp reaches v1.0.0",
+    "why": "Running a model locally keeps student data on the machine, and a stable engine makes that easier to recommend to schools that cannot send data to a cloud service."
+   },
+   {
+    "explainer": "She ran the same instructional-design tasks through Claude Fable 5.2 and the cheaper Sonnet 5.5, and raters scored the output blind against a 24-skill standard. The frontier model won on diagnosis, checking content against its source, and drafting a full storyboard. When a written standard or finished storyboard existed, the cheaper model reached the same verdicts at about a quarter of the cost.",
+    "link": "https://drphilippahardman.substack.com/p/fable-52-for-l-and-d-is-the-latest",
+    "source": "Philippa Hardman",
+    "title": "Is a frontier model worth the cost for course design? A blind test",
+    "why": "Her rule of thumb (pay for judgment, save on checking against a standard you wrote) is a ready answer when a client or colleague asks which model to buy."
+   }
+  ],
+  "policy": {
+   "blurb": "The memo sets rules for the AI tools used with university information, leaves classroom AI rules to faculty, and asks staff to move off personal ChatGPT accounts to the enterprise license by the end of the fall semester.",
+   "link": "https://www.unmc.edu/newsroom/2026/11/06/a-message-from-president-gold-on-artificial-intelligence/",
+   "title": "University of Nebraska sets system-wide AI rules (Executive Memorandum 48)"
+  },
+  "tryThisWeek": {
+   "link": "https://drphilippahardman.substack.com/p/fable-52-for-l-and-d-is-the-latest",
+   "steps": "Take one handout and its source reading, change three facts in the handout, and ask two models (one frontier, one cheaper) to check the handout against the source. Count planted errors caught and new errors invented, and you have a 30-minute test of whether that task needs the expensive model.",
+   "title": "Plant three errors, then pick your model"
+  }
+ }
+}
