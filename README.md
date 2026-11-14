@@ -4,6 +4,12 @@ A daily read on frontier AI, AI in education and higher ed AI policy, with one t
 
 Read it here: https://kramermusician.github.io/ai-frontier/
 
+## Saturday, November 14, 2026
+
+- [XYBench: models can spot the helpful answer but rarely write it](https://huggingface.co/blog/allenai/xybench)
+- [The No AI Slop Manifesto](https://slopmanifesto.com)
+- [ChatGPT Wallet lets agents buy things with your approval](https://openai.com/index/introducing-chatgpt-wallet)
+
 ## Friday, November 13, 2026
 
 - [Google enters the decision model market with Gemini Decision 1](https://simonwillison.net/2026/Nov/11/gemini-decisions-api/)
