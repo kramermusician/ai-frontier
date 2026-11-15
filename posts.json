@@ -64,5 +64,36 @@
    "steps": "Paste three real questions students asked you last week into your AI assistant, exactly as asked, and note whether it answers the literal question or the real goal. Then add one line (\"Before you answer, say what I am probably trying to achieve, and if my approach is not the best way, lead with the better way\") and run them again. It takes about 20 minutes and shows you what a student gets by default.",
    "title": "Ask the question behind the question"
   }
+ },
+ "2026-11-15": {
+  "items": [
+   {
+    "explainer": "Stanford's AI Hub for Education reviewed the 52 randomized controlled trials and quasi-experimental studies in its repository of 1,686 papers on AI in education. A randomized trial assigns students to use a tool or not by chance, so differences in learning can be traced to the tool. Across the 52, students who used AI for support, such as explanations or practice problems, generally learned more than students who used it to complete their work, though neither use was consistently positive.",
+    "link": "https://www.edweek.org/technology/is-ai-good-or-bad-for-learning-the-answer-isnt-so-simple/2026/11",
+    "source": "Education Week / Stanford AI Hub for Education",
+    "title": "52 real tests out of 1,686 papers: what the evidence on AI and learning says",
+    "why": "It gives a teacher one evidence-backed rule for designing AI use: point the tool at practice and explanation, not at producing the graded work."
+   },
+   {
+    "explainer": "IBM released preview Granite 4.1 models (3B and 8B) trained on LLMON, a markup format whose six structural delimiters are reserved special tokens that never appear in ordinary text. Every block of instructions, data or requirements gets an ID, and an exec block says which instructions apply to which data, much like passing arguments to a function. IBM reports it resists prompt injection, where text inside a document hijacks the model, far better than plain prompts, though these are IBM's own benchmarks on experimental models.",
+    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "source": "Hugging Face Blog / IBM Granite",
+    "title": "LLMON: a markup language built into the model to separate instructions from data",
+    "why": "Any AI tool that reads student work, email or web pages can be steered by hidden text in that content, and this is the first serious attempt to fix it inside the model rather than in the prompt."
+   },
+   {
+    "explainer": "Potkalitsky argues that the open question about AI has shifted from what the systems are to whether they can speed up their own development, a process called recursive self-improvement. He points to an Anthropic report saying Claude wrote more than 80% of the code merged into its production codebase by May 2026, while Pew polling shows public concern stuck at 52% since 2023. His point is that insiders may notice a change well before the public or schools do.",
+    "link": "https://nickpotkalitsky.substack.com/p/ai-is-getting-weird-again",
+    "source": "Nick Potkalitsky, Educating AI",
+    "title": "AI is getting weird again",
+    "why": "It is a clear, sourced way to explain to faculty why AI guidance written a year ago may already be out of date."
+   }
+  ],
+  "policy": null,
+  "tryThisWeek": {
+   "link": "https://www.edweek.org/technology/is-ai-good-or-bad-for-learning-the-answer-isnt-so-simple/2026/11",
+   "steps": "Pick one assignment where students now use AI to produce part of the work. Rewrite the AI step so the tool only explains a concept or generates five practice items, and students write the graded piece themselves. Ask them afterward which version helped them remember more.",
+   "title": "Move one AI task from doing to practicing"
+  }
  }
 }

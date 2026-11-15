@@ -4,6 +4,12 @@ A daily read on frontier AI, AI in education and higher ed AI policy, with one t
 
 Read it here: https://kramermusician.github.io/ai-frontier/
 
+## Sunday, November 15, 2026
+
+- [52 real tests out of 1,686 papers: what the evidence on AI and learning says](https://www.edweek.org/technology/is-ai-good-or-bad-for-learning-the-answer-isnt-so-simple/2026/11)
+- [LLMON: a markup language built into the model to separate instructions from data](https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite)
+- [AI is getting weird again](https://nickpotkalitsky.substack.com/p/ai-is-getting-weird-again)
+
 ## Saturday, November 14, 2026
 
 - [XYBench: models can spot the helpful answer but rarely write it](https://huggingface.co/blog/allenai/xybench)
