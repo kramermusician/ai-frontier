@@ -95,5 +95,40 @@
    "steps": "Pick one assignment where students now use AI to produce part of the work. Rewrite the AI step so the tool only explains a concept or generates five practice items, and students write the graded piece themselves. Ask them afterward which version helped them remember more.",
    "title": "Move one AI task from doing to practicing"
   }
+ },
+ "2026-11-16": {
+  "items": [
+   {
+    "explainer": "Physicists simulate particle physics by placing fields on a grid of points in spacetime, called a lattice, but the Standard Model's left-handed and right-handed particles have long resisted a clean lattice definition. Physicist Nathaniel Craig says he set the strategy and the model turned it into a concrete construction and a detailed proof, including a way to carry field configurations onto ever finer grids. Craig calls the result a candidate that is more an answer in principle than in practice.",
+    "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "source": "OpenAI",
+    "title": "GPT-6 Astra helped build a candidate lattice definition of the Standard Model",
+    "why": "It is the clearest current example of a model doing the proof steps while a human expert sets direction and outside specialists check the work, a pattern worth showing any faculty group."
+   },
+   {
+    "explainer": "Tom Solid shows a setup where several Claude Code Desktop sessions, each with its own context, send messages to one another. It is a small multi-agent system: one session can hand a task to another and get a result back instead of one long conversation doing everything.",
+    "link": "https://www.youtube.com/watch?v=e_BiN-2AALA",
+    "source": "myicor (Tom Solid)",
+    "title": "Claude Code Desktop sessions that message each other",
+    "why": "Multi-session setups are what most organizations will ask about next, and this is a plain-language demo to point them to."
+   },
+   {
+    "explainer": "LVMH's media arm, which owns several European newspapers and magazines, will use AI in its newsrooms and make its publications more accessible through ChatGPT. Deals like this decide which journalism a chatbot can draw on and cite when it answers a question.",
+    "link": "https://openai.com/index/lvmh-media-division-partnership",
+    "source": "OpenAI",
+    "title": "LVMH's media division partners with OpenAI",
+    "why": "Students increasingly meet the news through a chatbot answer, so knowing which publishers sit behind those answers is a source-literacy lesson."
+   }
+  ],
+  "policy": {
+   "blurb": "Executive Memorandum 48, dated Nov. 1, covers chatbots, coding, transcription and research tools, requires human review and disclosure of material AI contributions, and leaves course expectations with faculty; staff on personal ChatGPT accounts are asked to move to the university's enterprise account by the end of fall.",
+   "link": "https://docs.nebraska.edu/unop/docs/Board%20of%20Regents/Policies/executive-memorandum/Acceptable%20Use%20of%20Artificial%20Intelligence%20Systems.pdf",
+   "title": "University of Nebraska sets one acceptable-use policy for all AI systems"
+  },
+  "tryThisWeek": {
+   "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+   "steps": "Pick a tiny classroom need, such as a page that shows where your students' favorite musicians come from on a map. Write one detailed prompt to a coding assistant describing the data, the page and what a click should do, then note what worked first time and what needed a second prompt. Simon Willison built a full map plugin mostly this way this weekend.",
+   "title": "Build one small tool from one prompt"
+  }
  }
 }

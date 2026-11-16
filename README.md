@@ -4,6 +4,12 @@ A daily read on frontier AI, AI in education and higher ed AI policy, with one t
 
 Read it here: https://kramermusician.github.io/ai-frontier/
 
+## Monday, November 16, 2026
+
+- [GPT-6 Astra helped build a candidate lattice definition of the Standard Model](https://openai.com/index/step-toward-defining-the-standard-model)
+- [Claude Code Desktop sessions that message each other](https://www.youtube.com/watch?v=e_BiN-2AALA)
+- [LVMH's media division partners with OpenAI](https://openai.com/index/lvmh-media-division-partnership)
+
 ## Sunday, November 15, 2026
 
 - [52 real tests out of 1,686 papers: what the evidence on AI and learning says](https://www.edweek.org/technology/is-ai-good-or-bad-for-learning-the-answer-isnt-so-simple/2026/11)
