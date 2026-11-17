@@ -4,6 +4,12 @@ A daily read on frontier AI, AI in education and higher ed AI policy, with one t
 
 Read it here: https://kramermusician.github.io/ai-frontier/
 
+## Tuesday, November 17, 2026
+
+- [Claude Fable 5.2 is out: cheaper, faster, and aimed at the hardest jobs](https://thezvi.substack.com/p/fable-52-is-the-new-bazooka)
+- [FrontierML: agents that turn a cash budget into better models](https://importai.substack.com/p/import-ai-481-ai-sub-contractors)
+- [ChatGPT for Academic Researchers expands to 200,000 researchers](https://openai.com/index/expanding-chatgpt-for-academic-researchers)
+
 ## Monday, November 16, 2026
 
 - [GPT-6 Astra helped build a candidate lattice definition of the Standard Model](https://openai.com/index/step-toward-defining-the-standard-model)

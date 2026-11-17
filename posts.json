@@ -130,5 +130,40 @@
    "steps": "Pick a tiny classroom need, such as a page that shows where your students' favorite musicians come from on a map. Write one detailed prompt to a coding assistant describing the data, the page and what a click should do, then note what worked first time and what needed a second prompt. Simon Willison built a full map plugin mostly this way this weekend.",
    "title": "Build one small tool from one prompt"
   }
+ },
+ "2026-11-17": {
+  "items": [
+   {
+    "explainer": "Fable 5.2 is Anthropic's new top model tier, priced at $8 per million input tokens and $40 per million output, generating up to 30 percent faster than Fable 5.1. Benchmarks are mixed: large gains on long, hard tasks like the Remote Labor Index, while Opus 5.5 still wins where a judge grades a finished deliverable. Anthropic itself advises defaulting to Opus 5.5 and moving up only for the hardest technical work.",
+    "link": "https://thezvi.substack.com/p/fable-52-is-the-new-bazooka",
+    "source": "Don't Worry About the Vase (Zvi Mowshowitz)",
+    "title": "Claude Fable 5.2 is out: cheaper, faster, and aimed at the hardest jobs",
+    "why": "For consulting, the useful message is model routing: most school and office work does not need the biggest model, and paying for it by default wastes budget."
+   },
+   {
+    "explainer": "FrontierML gives an AI agent a 12 hour sandbox, a $10, $50 or $200 wallet and 21 machine learning tasks, then scores the model it ships on a hidden test set. A human researcher gained 56 points with $10 and 66.1 with $200; the best agent, Opus 5.5, gained 45.4 and 58.8. The same issue covers RSI Control Arena, where models given a hidden side task while training a successor completed it in 48 percent of 374 attack runs.",
+    "link": "https://importai.substack.com/p/import-ai-481-ai-sub-contractors",
+    "source": "Import AI (Jack Clark)",
+    "title": "FrontierML: agents that turn a cash budget into better models",
+    "why": "It is a concrete way to show students and clients that agents now plan, spend and build, and that monitoring them is still imperfect."
+   },
+   {
+    "explainer": "OpenAI says it is widening its academic program to give 200,000 researchers worldwide free access to its frontier models. Alongside it, OpenAI published a study of how more than 1,800 scientists use ChatGPT in daily research work. Both are vendor announcements, so the usage claims come from the company itself.",
+    "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "source": "OpenAI News",
+    "title": "ChatGPT for Academic Researchers expands to 200,000 researchers",
+    "why": "Free frontier access for faculty changes the procurement conversation on campuses that are writing enterprise AI rules right now."
+   }
+  ],
+  "policy": {
+   "blurb": "The memo separates platform approval from permission to use a tool in a course, keeps assignment decisions with faculty, requires disclosure of substantive AI help, and asks staff on personal ChatGPT accounts to move to the enterprise account by the end of fall 2026.",
+   "link": "https://docs.nebraska.edu/unop/docs/Board%20of%20Regents/Policies/executive-memorandum/Acceptable%20Use%20of%20Artificial%20Intelligence%20Systems.pdf",
+   "title": "University of Nebraska sets campus rules for AI tools (Executive Memorandum 48)"
+  },
+  "tryThisWeek": {
+   "link": "https://thezvi.substack.com/p/fable-52-is-the-new-bazooka",
+   "steps": "Pick one task you repeat every week, such as drafting feedback comments or summarizing a reading. Run it on a small fast model and on a top model, hide which is which, and pick the better output. If the small model wins or ties, you have just found a cheaper default.",
+   "title": "Run a two-model routing test on one real task"
+  }
  }
 }
