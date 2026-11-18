@@ -4,6 +4,12 @@ A daily read on frontier AI, AI in education and higher ed AI policy, with one t
 
 Read it here: https://kramermusician.github.io/ai-frontier/
 
+## Wednesday, November 18, 2026
+
+- [Helping AI text detectors keep up with changing conditions](https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118)
+- [GPT-6.2 Astra and GPT-6.2 Sol](https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/)
+- [External sandboxes for coding agents](https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/)
+
 ## Tuesday, November 17, 2026
 
 - [Claude Fable 5.2 is out: cheaper, faster, and aimed at the hardest jobs](https://thezvi.substack.com/p/fable-52-is-the-new-bazooka)

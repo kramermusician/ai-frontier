@@ -165,5 +165,40 @@
    "steps": "Pick one task you repeat every week, such as drafting feedback comments or summarizing a reading. Run it on a small fast model and on a top model, hide which is which, and pick the better output. If the small model wins or ties, you have just found a cheaper default.",
    "title": "Run a two-model routing test on one real task"
   }
+ },
+ "2026-11-18": {
+  "items": [
+   {
+    "explainer": "Detectors are models too, and they fail when new chatbots or humanizer tools change what AI text looks like. Researchers at Cornell Tech and MIT used test-time adaptation: the detector keeps adjusting its own parameters on new, unlabeled text it is shown, instead of staying frozen after training.",
+    "link": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
+    "source": "MIT News",
+    "title": "Helping AI text detectors keep up with changing conditions",
+    "why": "Any teacher tempted to trust a detector score should know how badly frozen detectors miss disguised text."
+   },
+   {
+    "explainer": "OpenAI released a frontier model (Astra) and an efficient everyday model (Sol). Astra drops to $8 input and $40 output per million tokens, and cached input falls to $0.40, which makes long agent sessions that reread the same context much cheaper.",
+    "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+    "source": "Simon Willison",
+    "title": "GPT-6.2 Astra and GPT-6.2 Sol",
+    "why": "Cheaper cached context changes the cost math for anyone building course tools on top of these models."
+   },
+   {
+    "explainer": "Instead of letting an AI agent run code on your laptop, you send that code to a separate disposable machine. If the code misbehaves, the damage stays in the sandbox.",
+    "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+    "source": "Simon Willison",
+    "title": "External sandboxes for coding agents",
+    "why": "A simple safety habit worth teaching to anyone experimenting with agents in class or in consulting."
+   }
+  ],
+  "policy": {
+   "blurb": "The CU system policy requires disclosure when generative AI contributes to university decisions, a model other campuses may borrow.",
+   "link": "https://www.cu.edu/blog/ope/new-systemwide-ai-policy-expected-evolve-feedback-community",
+   "title": "University of Colorado explains its AI disclosure rule"
+  },
+  "tryThisWeek": {
+   "link": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
+   "steps": "Write one short paragraph yourself, ask a chatbot for one on the same prompt, then ask it to rewrite that one to sound human. Paste all three into any AI detector you have access to and note which ones it flags. Bring the results to a colleague conversation about detector policy.",
+   "title": "Run your own detector stress test"
+  }
  }
 }
