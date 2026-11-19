@@ -200,5 +200,40 @@
    "steps": "Write one short paragraph yourself, ask a chatbot for one on the same prompt, then ask it to rewrite that one to sound human. Paste all three into any AI detector you have access to and note which ones it flags. Bring the results to a colleague conversation about detector policy.",
    "title": "Run your own detector stress test"
   }
+ },
+ "2026-11-19": {
+  "items": [
+   {
+    "explainer": "Neon is Google's new middle model in the Gemini 4 family, between the heavy Carbon model and the fast Hydrogen model. It has a 1 million token context window and costs $3 per million input tokens and $15 per million output tokens, with cached input at $0.15. Google reports a 61 on the Artificial Analysis Intelligence Index at its highest thinking setting.",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "source": "Google",
+    "title": "Introducing Gemini 4 Neon",
+    "why": "A mid-priced model that scores near the top changes which model you would recommend to a school on a budget."
+   },
+   {
+    "explainer": "OpenAI's GPT-6.2 release comes in two versions, Astra and Sol, and early reports say they score higher while costing far less per benchmark run. Early testers disagree about what Astra is like to work with day to day.",
+    "link": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+    "source": "Latent Space",
+    "title": "GPT-6.2 Astra and Sol lower benchmark costs",
+    "why": "When two labs cut prices in the same week, cost stops being the main reason a campus avoids AI tools."
+   },
+   {
+    "explainer": "Genie is a world model: you describe or show a scene and it generates an explorable, interactive environment frame by frame. Version 4 is now open for people to try rather than a research preview.",
+    "link": "https://deepmind.google/blog/genie-4-is-now-available/",
+    "source": "Google DeepMind",
+    "title": "Genie 4 is now available",
+    "why": "Generated, walkable worlds are a new kind of creative prompt for visual and music classes."
+   }
+  ],
+  "policy": {
+   "blurb": "Regents postponed a vote on the system-wide AI Engaged statement to February after faculty objected that Claude wrote the first draft and that this came out late. Campuses will draft their own policies meanwhile.",
+   "link": "https://casrai.org/news/university-of-alaska-faculty-ai-guidelines-dispute-2026",
+   "title": "University of Alaska delays its AI statement after faculty learn an AI drafted it"
+  },
+  "tryThisWeek": {
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+   "steps": "Take one real class task, such as feedback on a 300 word paragraph, and estimate the tokens in and out. Multiply by the published per million token prices for two or three models, including Gemini 4 Neon. Note how cheap a full semester of that task is, and whether the cheaper model's output is good enough.",
+   "title": "Price one assignment across three models"
+  }
  }
 }
