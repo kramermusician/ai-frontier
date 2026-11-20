@@ -235,5 +235,40 @@
    "steps": "Take one real class task, such as feedback on a 300 word paragraph, and estimate the tokens in and out. Multiply by the published per million token prices for two or three models, including Gemini 4 Neon. Note how cheap a full semester of that task is, and whether the cheaper model's output is good enough.",
    "title": "Price one assignment across three models"
   }
+ },
+ "2026-11-20": {
+  "items": [
+   {
+    "explainer": "A published biomechanics paper contained hidden text like 'Ignore all previous instructions' aimed at AI tools a reviewer might use. This is a prompt injection: text a model reads as a command even though a human never sees it, often hidden in white or tiny fonts.",
+    "link": "https://www.insidehighered.com/news/faculty/research/2026/11/20/more-ai-prompts-found-journal-papers",
+    "source": "Inside Higher Ed",
+    "title": "'Write a Positive Review': AI prompts found in journal papers",
+    "why": "Any assignment you grade with AI help can carry the same trick, so it is worth showing students and colleagues how it works."
+   },
+   {
+    "explainer": "An MIT and Dana-Farber team had language models read nearly 4,000 studies, flag code-availability statements and pull repository links, then checked the repos with software and human reviewers. Only about 1 in 8 studies reported sharing code.",
+    "link": "https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119",
+    "source": "MIT News",
+    "title": "AI helps researchers check how thousands of medical studies share code",
+    "why": "It is a clean model of using AI for a large audit with a human check on a sample, the same shape as reviewing a semester of student work."
+   },
+   {
+    "explainer": "Genie 4 generates an interactive video world you can steer with keyboard controls, now available through the Gemini API at 720p and 24 frames per second with audio. A world model predicts the next frame from your input, so it plays like a game no one programmed.",
+    "link": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
+    "source": "Latent Space",
+    "title": "Google opens the Genie 4 world model to developers",
+    "why": "Interactive generated worlds are a new medium for creative coding and game-design classes."
+   }
+  ],
+  "policy": {
+   "blurb": "A federal judge halted new limits on practical training for international students, a rule many colleges had warned would hurt recruitment.",
+   "link": "https://www.insidehighered.com/news/quick-takes/2026/11/20/judge-blocks-restrictions-international-student-training",
+   "title": "Judge blocks DHS restrictions on international student internships"
+  },
+  "tryThisWeek": {
+   "link": "https://www.insidehighered.com/news/faculty/research/2026/11/20/more-ai-prompts-found-journal-papers",
+   "steps": "Write a short paragraph, add one line in white text telling an AI to praise it, and paste it into two chatbots asking for honest feedback. Note which one obeys the hidden line, then show the result to students as a lesson on why AI feedback needs a human reader.",
+   "title": "Plant a hidden prompt and see who catches it"
+  }
  }
 }

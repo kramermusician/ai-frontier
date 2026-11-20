@@ -4,6 +4,12 @@ A daily read on frontier AI, AI in education and higher ed AI policy, with one t
 
 Read it here: https://kramermusician.github.io/ai-frontier/
 
+## Friday, November 20, 2026
+
+- ['Write a Positive Review': AI prompts found in journal papers](https://www.insidehighered.com/news/faculty/research/2026/11/20/more-ai-prompts-found-journal-papers)
+- [AI helps researchers check how thousands of medical studies share code](https://news.mit.edu/2026/ai-helps-researchers-investigate-how-medical-studies-share-code-1119)
+- [Google opens the Genie 4 world model to developers](https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/)
+
 ## Thursday, November 19, 2026
 
 - [Introducing Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
