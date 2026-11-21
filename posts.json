@@ -270,5 +270,40 @@
    "steps": "Write a short paragraph, add one line in white text telling an AI to praise it, and paste it into two chatbots asking for honest feedback. Note which one obeys the hidden line, then show the result to students as a lesson on why AI feedback needs a human reader.",
    "title": "Plant a hidden prompt and see who catches it"
   }
+ },
+ "2026-11-21": {
+  "items": [
+   {
+    "explainer": "A mathematician at Anthropic says he and Claude proved the Riemann Hypothesis and its generalization, and he released the proof as Lean code, a language a computer can check line by line. It is about 1.3GB, roughly 250,000 page equivalents, far too long for a person to read. Hours later a human mathematician released a 940-page draft he had worked on for 12 years.",
+    "link": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+    "source": "Latent Space",
+    "title": "Two claimed proofs of the Riemann Hypothesis in one day",
+    "why": "This is the clearest example yet of a correct-looking AI result that no human can read, which is exactly the problem teachers have with AI-written student work."
+   },
+   {
+    "explainer": "An MIT panel looked at a year in which AI agents produced a proof related to Navier-Stokes and OpenAI released 722 manuscripts claiming solved problems. Panelists argued that math needs human understanding, and one journal hired an extra editor to deal with the flood of AI-assisted submissions.",
+    "link": "https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120",
+    "source": "MIT News",
+    "title": "After the 'mathocalypse,' mathematicians ask what their job is now",
+    "why": "The same questions about understanding, credit and review are coming to every discipline, music theory included."
+   },
+   {
+    "explainer": "Researchers make AI models obey physical laws while they predict chaotic systems such as weather. The constraint keeps forecasts from drifting into impossible states over long runs.",
+    "link": "https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120",
+    "source": "MIT News",
+    "title": "Physics-constrained AI models for chaotic systems",
+    "why": "It's a concrete example of building rules into a model instead of trusting raw prediction, which is a useful way to frame AI for clients."
+   }
+  ],
+  "policy": {
+   "blurb": "The 18-author guide is CC-BY licensed and puts learning loss ahead of cheating as the main concern. Public comment runs through November, and the first revision is due in January 2027.",
+   "link": "https://aiweekly.co/alerts/nyu-tandon-releases-traffic-light-ai-policy-guide-for-faculty",
+   "title": "NYU Tandon publishes a traffic-light AI policy guide"
+  },
+  "tryThisWeek": {
+   "link": "https://aiweekly.co/alerts/nyu-tandon-releases-traffic-light-ai-policy-guide-for-faculty",
+   "steps": "Choose one assignment and label it red (AI prohibited), yellow (limited supporting use) or green (using AI is the skill). Write one sentence for students explaining why it got that colour, then ask them whether they agree.",
+   "title": "Sort one assignment with the traffic light"
+  }
  }
 }

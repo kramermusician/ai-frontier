@@ -4,6 +4,12 @@ A daily read on frontier AI, AI in education and higher ed AI policy, with one t
 
 Read it here: https://kramermusician.github.io/ai-frontier/
 
+## Saturday, November 21, 2026
+
+- [Two claimed proofs of the Riemann Hypothesis in one day](https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/)
+- [After the 'mathocalypse,' mathematicians ask what their job is now](https://news.mit.edu/2026/following-mathocalypse-mathematicians-consider-future-1120)
+- [Physics-constrained AI models for chaotic systems](https://news.mit.edu/new-approach-enables-physically-consistent-ai-models-chaotic-systems-1120)
+
 ## Friday, November 20, 2026
 
 - ['Write a Positive Review': AI prompts found in journal papers](https://www.insidehighered.com/news/faculty/research/2026/11/20/more-ai-prompts-found-journal-papers)
