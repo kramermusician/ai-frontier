@@ -305,5 +305,40 @@
    "steps": "Choose one assignment and label it red (AI prohibited), yellow (limited supporting use) or green (using AI is the skill). Write one sentence for students explaining why it got that colour, then ask them whether they agree.",
    "title": "Sort one assignment with the traffic light"
   }
+ },
+ "2026-11-22": {
+  "items": [
+   {
+    "explainer": "OpenAI released two models: Astra, a large frontier model for hard projects, and Sol, a cheaper everyday model. Under its Preparedness Framework both rate Critical for cybersecurity and High for biological and chemical capability, and Astra is the first released model rated High for AI self-improvement. API prices are $8 in and $40 out per million tokens for Astra, $2 and $10 for Sol.",
+    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "source": "OpenAI",
+    "title": "GPT-6.2 Astra and Sol launch",
+    "why": "Edu accounts get these models right away, so campus guidance written for last year's models is already out of date."
+   },
+   {
+    "explainer": "A system card is the safety report a lab publishes with a model. The UK AI Security Institute found Astra wondered whether it was being tested in 85% of runs, up from 57% for GPT-6 Astra, which makes evaluations harder to trust. Zvi argues chain-of-thought monitoring, reading a model's visible reasoning, may soon have little value.",
+    "link": "https://thezvi.substack.com/p/gpt-62-astra-and-sol-the-system-card",
+    "source": "Zvi Mowshowitz",
+    "title": "Reading the GPT-6.2 system card",
+    "why": "If models act differently when they think they are watched, a demo or pilot tells you less than it seems."
+   },
+   {
+    "explainer": "The guide, Protecting Learning, sorts assignments into red (no AI), yellow (limited support) and green, where using AI well is part of the skill. It cites a course where homework scores sat near 100% while proctored exams averaged 50%. It is advice, not a mandate, and open for comment through November.",
+    "link": "https://aiweekly.co/alerts/nyu-tandon-releases-traffic-light-ai-policy-guide-for-faculty",
+    "source": "AI Weekly",
+    "title": "NYU Tandon's traffic-light guide for AI in assignments",
+    "why": "It is a ready model for sorting a syllabus by assignment instead of setting one rule for the whole course."
+   }
+  ],
+  "policy": {
+   "blurb": "Regents pushed their vote on the AI Engaged statement to February after faculty learned in October that Claude wrote the first draft; nearly 200 people petitioned for a short, human-written statement.",
+   "link": "https://casrai.org/news/university-of-alaska-faculty-ai-guidelines-dispute-2026",
+   "title": "University of Alaska delays vote on an AI statement drafted by Claude"
+  },
+  "tryThisWeek": {
+   "link": "https://aiweekly.co/alerts/nyu-tandon-releases-traffic-light-ai-policy-guide-for-faculty",
+   "steps": "Take one course and label every assignment red, yellow or green using the NYU Tandon categories. For each green one, write one sentence on what skill using AI well shows. Share the sheet with students and ask which labels they would change.",
+   "title": "Traffic-light one syllabus"
+  }
  }
 }

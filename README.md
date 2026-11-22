@@ -4,6 +4,12 @@ A daily read on frontier AI, AI in education and higher ed AI policy, with one t
 
 Read it here: https://kramermusician.github.io/ai-frontier/
 
+## Sunday, November 22, 2026
+
+- [GPT-6.2 Astra and Sol launch](https://openai.com/index/introducing-gpt-6-2-astra-sol)
+- [Reading the GPT-6.2 system card](https://thezvi.substack.com/p/gpt-62-astra-and-sol-the-system-card)
+- [NYU Tandon's traffic-light guide for AI in assignments](https://aiweekly.co/alerts/nyu-tandon-releases-traffic-light-ai-policy-guide-for-faculty)
+
 ## Saturday, November 21, 2026
 
 - [Two claimed proofs of the Riemann Hypothesis in one day](https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/)
