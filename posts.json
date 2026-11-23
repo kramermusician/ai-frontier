@@ -340,5 +340,33 @@
    "steps": "Take one course and label every assignment red, yellow or green using the NYU Tandon categories. For each green one, write one sentence on what skill using AI well shows. Share the sheet with students and ask which labels they would change.",
    "title": "Traffic-light one syllabus"
   }
+ },
+ "2026-11-23": {
+  "items": [
+   {
+    "explainer": "SLIC is a training method where a small language model of a few billion parameters first imitates design demonstrations from a large model, then practices alone with reinforcement learning: it guesses circuit parameters, runs a simulator, checks the result and refines. Because the simulator gives a verifiable score, the model learns from real outcomes rather than opinions. MIT reports it came close to a flagship model's results while using a fraction of the compute.",
+    "link": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
+    "source": "MIT News",
+    "title": "A laptop-sized model that nearly matches frontier AI at analog chip design",
+    "why": "It is a clear case that a small, private, specialised model can beat paying for the biggest one when the task has a checkable answer."
+   },
+   {
+    "explainer": "The Healthy Minds Study surveyed 67,477 students at 107 colleges and asked about chatbots for the first time. Seven percent said they had received counseling or emotional support from a chatbot like ChatGPT, and a co-author calls that likely an underestimate. The same survey shows depression and anxiety easing slightly.",
+    "link": "https://www.insidehighered.com/news/student-success/health-wellness/2026/11/23/student-mental-health-improving-slowly",
+    "source": "Inside Higher Ed",
+    "title": "7 percent of college students now get emotional support from AI chatbots",
+    "why": "Students are already using AI for more than homework, which belongs in any campus AI guidance conversation."
+   }
+  ],
+  "policy": {
+   "blurb": "Florida officials advanced a proposal Friday that would require institutions to respond to a state directive, another sign of tightening state oversight.",
+   "link": "https://www.insidehighered.com/news/governance/state-oversight/2026/11/23/florida-aims-compel-call-action-response",
+   "title": "Florida moves to compel campus responses to a state call to action"
+  },
+  "tryThisWeek": {
+   "link": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
+   "steps": "Pick one task from your teaching that has a verifiable right answer, such as transposing a chord chart or fixing a set of verb tenses. Run it through a small free model and a large one, then score both against your key. Note where the small one is good enough.",
+   "title": "Grade an AI with a checkable answer"
+  }
  }
 }

@@ -4,6 +4,11 @@ A daily read on frontier AI, AI in education and higher ed AI policy, with one t
 
 Read it here: https://kramermusician.github.io/ai-frontier/
 
+## Monday, November 23, 2026
+
+- [A laptop-sized model that nearly matches frontier AI at analog chip design](https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123)
+- [7 percent of college students now get emotional support from AI chatbots](https://www.insidehighered.com/news/student-success/health-wellness/2026/11/23/student-mental-health-improving-slowly)
+
 ## Sunday, November 22, 2026
 
 - [GPT-6.2 Astra and Sol launch](https://openai.com/index/introducing-gpt-6-2-astra-sol)
