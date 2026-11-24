@@ -4,6 +4,12 @@ A daily read on frontier AI, AI in education and higher ed AI policy, with one t
 
 Read it here: https://kramermusician.github.io/ai-frontier/
 
+## Tuesday, November 24, 2026
+
+- [Many languages, one common neural code](https://news.mit.edu/2026/many-languages-one-common-neural-code-1123)
+- [Finding faster quantum algorithms with agents and formal verification](https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/)
+- [GLM-5.4: a loop transformer for coding](https://simonwillison.net/2026/Nov/23/glm-54/)
+
 ## Monday, November 23, 2026
 
 - [A laptop-sized model that nearly matches frontier AI at analog chip design](https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123)

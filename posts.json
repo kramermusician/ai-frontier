@@ -368,5 +368,40 @@
    "steps": "Pick one task from your teaching that has a verifiable right answer, such as transposing a chord chart or fixing a set of verb tenses. Run it through a small free model and a large one, then score both against your key. Note where the small one is good enough.",
    "title": "Grade an AI with a checkable answer"
   }
+ },
+ "2026-11-24": {
+  "items": [
+   {
+    "explainer": "Researchers recorded brain activity of speakers of 21 languages listening to Alice in Wonderland, then used multilingual language models to build encoding models that predict that activity. A model trained on one language, such as French, could predict brain responses in another it never saw, such as Vietnamese. That suggests the brain represents meaning in a shared way across languages.",
+    "link": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
+    "source": "MIT News",
+    "title": "Many languages, one common neural code",
+    "why": "It gives language teachers new evidence that meaning, not surface form, is the common ground learners build on."
+   },
+   {
+    "explainer": "Teams of AI agents propose improvements to quantum algorithms, and a formal verifier mathematically checks each claim before it is accepted. The checker is what makes the agents' output trustworthy.",
+    "link": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+    "source": "Google DeepMind",
+    "title": "Finding faster quantum algorithms with agents and formal verification",
+    "why": "Pairing AI generation with an automatic checker is a pattern any teacher can copy for AI-assisted work."
+   },
+   {
+    "explainer": "Z.ai's new model is its first loop transformer, which runs some of its layers more than once instead of stacking more distinct layers. The idea is to get more reasoning per parameter.",
+    "link": "https://simonwillison.net/2026/Nov/23/glm-54/",
+    "source": "Simon Willison",
+    "title": "GLM-5.4: a loop transformer for coding",
+    "why": "Open models from new labs keep getting cheaper to run, which shapes what schools can afford."
+   }
+  ],
+  "policy": {
+   "blurb": "Faculty use AI widely but there is no agreed line between help and dishonesty; a Dartmouth provost resigned after a detector flagged his writing.",
+   "link": "https://www.insidehighered.com/news/faculty/2026/11/24/whats-really-fueling-higher-eds-ai-witch-hunt",
+   "title": "What's really fueling higher ed's AI 'witch hunt'?"
+  },
+  "tryThisWeek": {
+   "link": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
+   "steps": "Give an AI chatbot one short paragraph in English and ask for it in a language your students speak, then ask it to explain three places where the two versions differ in form but keep the same meaning. Use the result as a five-minute warm-up on meaning over word-for-word translation.",
+   "title": "Same meaning, two languages"
+  }
  }
 }
