@@ -403,5 +403,40 @@
    "steps": "Give an AI chatbot one short paragraph in English and ask for it in a language your students speak, then ask it to explain three places where the two versions differ in form but keep the same meaning. Use the result as a five-minute warm-up on meaning over word-for-word translation.",
    "title": "Same meaning, two languages"
   }
+ },
+ "2026-11-25": {
+  "items": [
+   {
+    "explainer": "Gemini 4 Neon is Google's new middle model, sitting between the fast Hydrogen and the heavy Carbon, with four thinking levels you choose per request. More thinking means the model spends more hidden reasoning tokens before answering, which costs more but solves harder tasks. Google lists it at $3 per million input tokens and $15 per million output tokens with a 1 million token context window, and claims a per-task cost 32 percent below Carbon.",
+    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+    "source": "Google",
+    "title": "Introducing Gemini 4 Neon",
+    "why": "A near-frontier model at mid-tier prices changes the cost math you give any school asking which AI plan to buy, though most benchmark numbers here are Google's own."
+   },
+   {
+    "explainer": "Willison argues the past year had three jumps: coding agents became reliable in November 2025, models that solve a defined goal by brute force with tools arrived in mid 2026, and by autumn models got good at 3D modeling and even at making a game fun. An agent here is a model that runs in a loop, calling tools such as a terminal or browser, until a goal is met. His point is that the jumps came from models plus tools, not from chat getting smarter.",
+    "link": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+    "source": "Simon Willison",
+    "title": "Three LLM inflection points in twelve months",
+    "why": "It gives you a clean, dated timeline for explaining to faculty why advice from even a year ago is already out of date."
+   },
+   {
+    "explainer": "Willison links a case study by history professor Mark Humphries, who used GPT 6.2 Astra on a real historical research question. Astra is OpenAI's current top reasoning model, built to work through long, multi-step problems instead of giving one quick answer. The case is worth reading for how the historian framed the question and checked the model's evidence, not just for the result.",
+    "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+    "source": "Simon Willison",
+    "title": "GPT 6.2 Astra Solves a Historical Mystery",
+    "why": "Humanities faculty often hear only about AI as a cheating tool, and this is a concrete research use you can show them."
+   }
+  ],
+  "policy": {
+   "blurb": "An 18-author faculty working group published Protecting Learning, a guide that helps instructors sort each assignment by whether AI supports or substitutes for the learning it is meant to build.",
+   "link": "https://aiweekly.co/alerts/nyu-tandon-releases-traffic-light-ai-policy-guide-for-faculty",
+   "title": "NYU Tandon faculty release a traffic-light guide to AI use in assignments"
+  },
+  "tryThisWeek": {
+   "link": "https://www.insidehighered.com/news/students/academics/2026/11/25/students-say-they-dont-use-ai-harmful-ways-peers-do",
+   "steps": "Make an anonymous four-question form: for two helpful uses (explaining a concept, making a practice quiz) and two shortcut uses (drafting an essay, pasting AI text in unedited), ask whether the student does it and whether they think classmates do. Run it in the last five minutes of class and show the two bars side by side next time. The gap between them starts an honest conversation about norms without accusing anyone.",
+   "title": "Run the me versus my classmates AI poll"
+  }
  }
 }
