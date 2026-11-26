@@ -4,6 +4,12 @@ A daily read on frontier AI, AI in education and higher ed AI policy, with one t
 
 Read it here: https://kramermusician.github.io/ai-frontier/
 
+## Thursday, November 26, 2026
+
+- [The Riemann Hypothesis is certified in Lean](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
+- [OpenAI claims the matrix multiplication exponent is exactly 9/4](https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/)
+- [Where scientists draw the line on AI agents](https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents)
+
 ## Wednesday, November 25, 2026
 
 - [Introducing Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/)
