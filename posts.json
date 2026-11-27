@@ -473,5 +473,40 @@
    "steps": "Pick one job you already hand to AI, such as an answer key or a chord analysis. Write three yes or no checks that do not need the AI (does every answer appear in the reading, is every chord in the key, does it match the rubric), then run ten AI outputs through them and count the failures.",
    "title": "Give one AI task a separate checker"
   }
+ },
+ "2026-11-27": {
+  "items": [
+   {
+    "explainer": "Neon is a new Gemini 4 model adapted from Google's larger Carbon model and tuned to balance depth and cost, with a 1 million token context window. Google says it costs 32% less per task than Carbon and charges $3 per million input tokens and $15 per million output tokens. On Google's own benchmark table it leads on long-document search and office automation tasks and roughly ties rivals elsewhere.",
+    "link": "https://deepmind.google/models/model-cards/gemini-4-neon/",
+    "source": "Google DeepMind",
+    "title": "Gemini 4 Neon: the middle model built for agents",
+    "why": "If the mid-priced model now does the work of the flagship, the default advice for schools and small teams is to start with the cheaper tier and test."
+   },
+   {
+    "explainer": "A learning designer audited a year of her own chats and found her use shifted from doing things faster to doing them better. Her five uses run from analysing every learner comment by category to building a feedback bot from your own edited drafts. Each one ends with a verification step, such as marking every quote as verified, paraphrased or not found.",
+    "link": "https://drphilippahardman.substack.com/p/how-i-ai-my-top-5-daily-ai-use-cases",
+    "source": "Philippa Hardman",
+    "title": "Five daily AI uses for learning design, each with its own check",
+    "why": "Her rule, AI reads and counts and the human decides, is a ready-made frame for faculty workshops."
+   },
+   {
+    "explainer": "The llama.cpp project now publishes weekly benchmarks of local models on AMD Ryzen and Radeon chips. It reports two numbers: how fast a model reads a 512 token prompt and how fast it writes 128 tokens, each repeated 10 times. Those two numbers decide whether a local model feels usable on a laptop.",
+    "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "source": "Hugging Face and ggml-org",
+    "title": "A public speed dashboard for running models on your own AMD hardware",
+    "why": "Local models keep student text off the cloud, and this gives a neutral way to check whether a given machine can run one."
+   }
+  ],
+  "policy": {
+   "blurb": "Inside Higher Ed traces a backlash over leaders and faculty using AI to write, from a Dartmouth provost's resignation to the University of Chicago's plan for a required AI-free first-year writing course. The rules for students are now being turned on the people who wrote them.",
+   "link": "https://www.insidehighered.com/news/faculty/2026/11/24/whats-really-fueling-higher-eds-ai-witch-hunt",
+   "title": "Higher ed has no shared line on AI in faculty writing"
+  },
+  "tryThisWeek": {
+   "link": "https://drphilippahardman.substack.com/p/how-i-ai-my-top-5-daily-ai-use-cases",
+   "steps": "Paste 5 to 10 questions from an upcoming quiz into any chatbot without the answer key and ask it to predict how a beginner with common misconceptions, a middle learner and an expert would answer, with the reason for each answer. Then paste the key and ask it to flag questions that are too easy, too hard, unclear or have weak distractors. Treat the beginner's answers with caution: the author notes AI is poor at playing weak learners.",
+   "title": "Run your next quiz past three synthetic students"
+  }
  }
 }

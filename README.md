@@ -4,6 +4,12 @@ A daily read on frontier AI, AI in education and higher ed AI policy, with one t
 
 Read it here: https://kramermusician.github.io/ai-frontier/
 
+## Friday, November 27, 2026
+
+- [Gemini 4 Neon: the middle model built for agents](https://deepmind.google/models/model-cards/gemini-4-neon/)
+- [Five daily AI uses for learning design, each with its own check](https://drphilippahardman.substack.com/p/how-i-ai-my-top-5-daily-ai-use-cases)
+- [A public speed dashboard for running models on your own AMD hardware](https://huggingface.co/blog/ggml-org/llamacpp-amd-bench)
+
 ## Thursday, November 26, 2026
 
 - [The Riemann Hypothesis is certified in Lean](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
