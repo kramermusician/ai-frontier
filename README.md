@@ -4,6 +4,12 @@ A daily read on frontier AI, AI in education and higher ed AI policy, with one t
 
 Read it here: https://kramermusician.github.io/ai-frontier/
 
+## Saturday, November 28, 2026
+
+- [GPT-6.2 Astra's brain gets smart but its head gets dumb](https://thezvi.substack.com/p/astra-62s-brain-gets-smart-but-its)
+- [Inside the AI training data market](https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/)
+- [TangiMap lets an AI agent remap knobs and faders for any app](https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124)
+
 ## Friday, November 27, 2026
 
 - [Gemini 4 Neon: the middle model built for agents](https://deepmind.google/models/model-cards/gemini-4-neon/)

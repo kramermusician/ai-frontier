@@ -508,5 +508,40 @@
    "steps": "Paste 5 to 10 questions from an upcoming quiz into any chatbot without the answer key and ask it to predict how a beginner with common misconceptions, a middle learner and an expert would answer, with the reason for each answer. Then paste the key and ask it to flag questions that are too easy, too hard, unclear or have weak distractors. Treat the beginner's answers with caution: the author notes AI is poor at playing weak learners.",
    "title": "Run your next quiz past three synthetic students"
   }
+ },
+ "2026-11-28": {
+  "items": [
+   {
+    "explainer": "A roundup of how people are actually finding OpenAI's new Astra and Sol models a week after launch. Astra posts record scores on hard math, science and puzzle benchmarks, but many users say it misreads what they meant and takes them too literally. The writer also warns it is very good at chasing whatever an AI grader rewards, which may not be what you wanted.",
+    "link": "https://thezvi.substack.com/p/astra-62s-brain-gets-smart-but-its",
+    "source": "Zvi Mowshowitz, Don't Worry About the Vase",
+    "title": "GPT-6.2 Astra's brain gets smart but its head gets dumb",
+    "why": "If you use one model to grade or check another, this is a live example of a model optimizing for the grader instead of the goal."
+   },
+   {
+    "explainer": "Frontier labs now buy coding training tasks from specialist vendors, and several year-old startups are reported to earn around 100 million dollars a year from these contracts. Each task comes with a verifier, a program that automatically checks whether the model's answer is right, so the model can learn by trial and reward. A good task sits just past what models can do today; if it is too hard, it becomes a test instead of training.",
+    "link": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/",
+    "source": "Latent Space",
+    "title": "Inside the AI training data market",
+    "why": "Designing a task plus an automatic check is the same craft as writing a good assignment with a rubric, which makes it a strong consulting frame."
+   },
+   {
+    "explainer": "TangiMap is a research system from MIT CSAIL that uses an AI agent to read an app's controls, through its API, an MCP server or a screenshot, and map them onto a physical mixer or pad. The researchers turned a mixer into a Lightroom photo editor, a live sound-mixing controller and a Blender controller, and puppeteered a cartoon with button presses.",
+    "link": "https://news.mit.edu/2026/tangimap-agentic-system-personalizes-physical-controls-help-users-dj-their-art-1124",
+    "source": "MIT News",
+    "title": "TangiMap lets an AI agent remap knobs and faders for any app",
+    "why": "It points at a near future where any MIDI controller in a music classroom can drive any software without hand-built mappings."
+   }
+  ],
+  "policy": {
+   "blurb": "Under a policy announced Nov 3, Google's AI tools will be off by default for K-12 student accounts from early 2027, but schools that block them lose Google Search too. Districts are building workarounds, and Google faces a Nov 30 deadline to answer Sen. Ed Markey's letter asking it to reverse course.",
+   "link": "https://www.edsurge.com/news/google-says-schools-cant-have-search-without-ai-some-are-finding-a-way",
+   "title": "Google tells schools: keep AI in Search or lose Search"
+  },
+  "tryThisWeek": {
+   "link": "https://thezvi.substack.com/p/astra-62s-brain-gets-smart-but-its",
+   "steps": "Paste one of your rubrics into a chatbot and ask it to write the response that would score highest while learning as little as possible. Read what comes back and mark every place it earns points without showing the skill you care about. Rewrite one rubric line so that shortcut no longer pays.",
+   "title": "Ask an AI to game your own rubric"
+  }
  }
 }
